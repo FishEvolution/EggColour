@@ -9,6 +9,8 @@ For all parts of the project the end of the file represents which part of the pr
 No "1" - Data with the egg colours that match the colour of the adult were included.
 1 - Data with the egg colours that match the colour of the adult were excluded.
 
+The tree file (Actinopterygii.trees) is available from Rabosky et al., 2018 (Rabosky DL, Chang J, Cowman PF, Sallan L, Friedman M, Kaschner K, Garilao C, Near TJ, Coll M, Alfaro ME. An inverse latitudinal gradient in speciation rate for marine fishes. Nature. 2018 Jul;559(7714):392-5.).
+
 A) Data Generation
 
 1. Create a separate folder entitled maps.
