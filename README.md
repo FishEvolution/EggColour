@@ -1,6 +1,6 @@
 READ ME
 
-Data Overview - Contains all the original data for Egg Colour and Environmental Data used.
+FishEggs.csv - Contains all the original data for Egg Colour and Environmental Data used.
 
 Below is a description of how each part of the methods were carried out including file names used in each analysis.
 
