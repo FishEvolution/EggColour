@@ -3,6 +3,17 @@
 setwd("C:/Users/tmunr/OneDrive/Aberdeen/Projects/Actinopteygii Egg Morphology/R")
 
 library(ape)
+library(phytools)
+library(phangorn)
+library(geiger)
+library(RRphylo)
+library(caper)
+library(terra)
+library(geodata)
+library(MCMCglmm)
+library(car)
+library(ggplot2)
+library(ggbeeswarm)
 
 #### Data Collection ####
 
